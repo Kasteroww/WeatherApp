@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <name>WeatherApp</name>
 
-    <properties>
+    <properties>sdv
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
